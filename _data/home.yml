@@ -30,6 +30,10 @@ project_entries:
     url: lorem-ipsum
     desc: lorem-ipsum
     highlight: lorem-ipsum
+  - title: lorem-ipsum
+    url: lorem-ipsum
+    desc: lorem-ipsum
+    highlight: lorem-ipsum
 old_project_entries:
   - title: microrequests
     url: 'http://www.abhinav.co/microrequests'
