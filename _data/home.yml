@@ -26,10 +26,6 @@ project_entries:
   - title: Project 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
-  - title: lorem-ipsum
-    url: lorem-ipsum
-    desc: lorem-ipsum
-    highlight: lorem-ipsum
 old_project_entries:
   - title: microrequests
     url: 'http://www.abhinav.co/microrequests'
